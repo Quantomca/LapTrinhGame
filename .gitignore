@@ -17,3 +17,15 @@ UserSettings/
 # OS
 .DS_Store
 Thumbs.db
+# Visual Studio / Rider / VS Code
+.vs/
+.vsconfig
+*.csproj
+*.sln
+UpgradeLog.htm
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
